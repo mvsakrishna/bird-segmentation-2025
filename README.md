@@ -56,7 +56,7 @@ This project implements a **dual-pipeline bird image segmentation system** using
 ```
 bird-segmentation-2025/
 │
-├── bird_seg_2025.py          # Main pipeline code (both modes)
+├── bird-seg-2025.py          # Main pipeline code (both modes)
 ├── requirements.txt          # All Python dependencies
 ├── setup.sh                  # One-command environment setup
 │
