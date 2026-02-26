@@ -1,0 +1,32 @@
+# ─── Core Deep Learning ────────────────────────────────────────────────────
+torch>=2.5.1
+torchvision>=0.20.1
+torchaudio>=2.5.1
+
+# ─── YOLOv11 + SAM 2.1 (both via Ultralytics) ──────────────────────────────
+ultralytics>=8.3.0
+
+# ─── Grounding DINO 1.5 (zero-shot detection) ──────────────────────────────
+groundingdino-py>=0.4.0
+
+# ─── Computer Vision Utilities ─────────────────────────────────────────────
+opencv-python>=4.10.0
+Pillow>=10.4.0
+albumentations>=1.4.0
+
+# ─── Annotation & Visualisation ────────────────────────────────────────────
+supervision>=0.23.0
+matplotlib>=3.9.0
+numpy>=1.26.0
+
+# ─── Hugging Face (optional — for SegFormer baseline comparison) ───────────
+transformers>=4.44.0
+
+# ─── Experiment Tracking (optional) ───────────────────────────────────────
+# wandb>=0.18.0
+# tensorboard>=2.18.0
+
+# ─── Utilities ─────────────────────────────────────────────────────────────
+tqdm>=4.66.0
+PyYAML>=6.0.2
+requests>=2.32.0
