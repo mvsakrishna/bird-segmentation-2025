@@ -286,14 +286,9 @@ If you use this work, please cite:
   author  = {Munagala, Abhinav},
   journal = {arXiv preprint},
   year    = {2025},
-  url     = {https://github.com/abhinav-munagala/bird-segmentation-2025}
+  url     = {https://github.com/mvsakrishna/bird-segmentation-2025}
 }
 ```
-
----
-
-## 📜 License
-MIT License — see [LICENSE](LICENSE) for details.
 
 ---
 
