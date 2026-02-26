@@ -1,6 +1,6 @@
 """
 =============================================================================
- Birds Image Segmentation — 2025 Foundation Model Pipeline
+ Birds Image Segmentation — 2025 Model Pipeline
  Author  : Abhinav Munagala
  Paper   : "Zero-Shot and Supervised Bird Image Segmentation Using Foundation
             Models: A Dual-Pipeline Approach with Grounding DINO 1.5,
